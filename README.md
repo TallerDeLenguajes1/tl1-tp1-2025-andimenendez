@@ -22,5 +22,5 @@ se recomienda crear un archivo ´.gitignore´:
 #### **3c  Revise los archivos subidos en su repositorio de github. ¿Qué archivos vé?¿Cuál cree que no hace falta que esté?**
   los archivos subidos son .gitignore que lo subi en el primer punto, README.md, tp1.exe y tp1_1.c el que no deberia estar es tp1.exe porque es un archivo que tiene que estar solo en mi computadora 
 
-#### notas: 
-Como habia agregado el archivo .gitignore antes de subir los archivo .c y .exe no se ignoraron luego que lo actualice
+#### Apartado G: 
+Como habia agregado el archivo .gitignore antes de subir los archivo .c y .exe no se ignoraron luego que lo actualice al gitignore
